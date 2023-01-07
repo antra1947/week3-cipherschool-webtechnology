@@ -1,0 +1,29 @@
+/* p:nth-child(2n){
+    color:rgb(243, 90, 2);
+}
+
+ */
+
+ /* p:nth-of-type(2){
+    color:deeppink;
+ }
+
+
+
+
+
+ */
+
+ ul li:nth-of-type(2n+1){
+              color:rgb(30, 33, 133);
+              background-color: chartreuse;
+              
+ }
+
+
+
+
+
+
+
+

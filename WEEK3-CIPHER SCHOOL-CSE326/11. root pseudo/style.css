@@ -1,0 +1,28 @@
+/* body:not(.fancy){
+    color:blue;
+    background-color: crimson;
+}
+ */
+
+ /* div:empty{
+    background-color: chocolate;
+    border:2px solid red;
+    height: 100px;
+    width: 100px;
+ } */
+ /* :root{
+    background: turquoise;
+    color:darkred;
+ }
+
+ html{
+    background-color: greenyellow;;
+    color:crimson;
+ } */
+
+ /* body{
+    background-color: darkslateblue;
+    color:mediumorchid;
+ } */
+
+ 

@@ -1,0 +1,20 @@
+body{
+    color:rgb(165, 42, 114);
+}
+
+.container1{
+    color:rgb(255, 0, 106);
+}
+
+.container2{
+    color:rgb(255, 251, 0);
+}
+
+h1{
+    color:aqua;
+}
+
+a{
+    color:chocolate;
+    text-decoration: none;
+}

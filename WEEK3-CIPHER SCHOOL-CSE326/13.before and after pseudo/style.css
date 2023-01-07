@@ -1,0 +1,29 @@
+.cool::before{
+    content: 'hello';
+    color:violet;
+    border: 1px dotted black;
+    margin-bottom: 5px;
+    padding: 5px;
+
+}
+
+
+.cool::after{
+    content: 'hello';
+    color:violet;
+    border: 1px dotted black;
+    margin-top: 5px;
+    padding: 5px;
+
+
+}
+
+.main-header::before{
+    content: 'hello';
+    color:darkviolet;
+   
+}
+
+img::after{
+    content: 'hello'
+}
